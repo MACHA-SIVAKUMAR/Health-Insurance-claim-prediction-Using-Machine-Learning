@@ -2,9 +2,9 @@
 Health Insurance claims Prediction using Machine Learning
 
 Team Members :
-1. N.padhmavathi
+1. MACHA SIVAKUMAR
 2. A.pavani
-3. MACHA SIVAKUMAR
+3. PADHMAVATHI
 4. T.BHARATHKUMAR
 
 Introduction :
